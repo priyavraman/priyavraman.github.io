@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -54,3 +54,5 @@ Service and leadership
 * Core Committee Member & Column Writer, Ananya Cultural Academy, Bangalore, India (2009- 2016) 
   * Assisted in organizing bi-monthly music and dance festivals, anchored programs, managed PR and logistics and contributed to research and development of new initiatives
   * Chief column writer for 6 years. Contributed monthly articles (thematic columns, features, interviews, and program reports) for bi-lingual magazine Ananya Kalasinchana 
+
+[Download full CV](https://priyavraman.github.io/files/Raman_Priva_CV_October_2022.pdf)
