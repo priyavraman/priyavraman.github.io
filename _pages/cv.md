@@ -25,7 +25,7 @@ Work experience
 
 * Fall 2021: Research Assistant
   * Signature Course: Dancing America
-_Duties included_ 
+*_Duties included_ 
   * Conducting weekly discussion sessions to guide students to write academic papers.
   * Grading and assessment of all the student work: individual and group presentations and written reports, video and film analysis reports, workshop worksheets, fun practical assignments, and final research projects
   * Conducting regular office hour meetings with students to discuss assignments and class progress
