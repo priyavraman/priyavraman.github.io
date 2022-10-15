@@ -38,7 +38,6 @@ Skills
 
   * Designed and conducted interactive workshops for school students in upper primary and secondary levels
   * Trained, engaged, and motivated teachers to inculcate innovative performing art activities in school curriculum
-  ======
     
 Talks
 ======
