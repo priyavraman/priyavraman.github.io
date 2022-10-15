@@ -82,12 +82,14 @@ analytics:
 author:
   name             : "Priya Raman"
   avatar           : "priya.headshot.2.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D in Performance Studies: Specialization in Indian Dance
+                      University of Texas, Austin
+                      Bharatanatyam dancer-educator-writer"
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : priyavraman@duck.com
+  email            : priya.raman@utexas.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
