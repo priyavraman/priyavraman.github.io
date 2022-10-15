@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Philosophy (Ph.D.) in Performance, Indian Dance. Performance as Public Practice, University of Texas at Austin, United States  (2016-2022)
+* Masters in Performing Arts (MPA), Bharatanatyam. S N School of Arts and Communication, Hyderabad, India (2011-2013)
+* Bachelor of Commerce (B.Com), Accounts. Bangalore University, Bangalore, India (2002-2005)
+* Bharatanatyam Vidwath, Proficiency Karnataka State Secondary Education Board, Bangalore, India (2000)
 
 Work experience
 ======
@@ -38,21 +39,14 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Add
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+Add
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
