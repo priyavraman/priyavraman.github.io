@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-**SOUTH ASIAN PERFORMANCE: University of Texas, Austin: Spring 2021-WB (Web-based)**
+**SOUTH ASIAN PERFORMANCE: University of Texas, Austin: Spring 2021-WB (Web-Based)**
 
 **Course Description**
 
