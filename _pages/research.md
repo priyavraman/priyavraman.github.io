@@ -16,7 +16,7 @@ In this paper, I theorize criticism as post-performance performative. That is, I
 In an upcoming work, I analyze historical and contemporary performance as a _rasaic_ critic. I highlight that the inherent flexibility of _rasa_ theory enables critics to enjoy affective pleasures and also articulate feminist responses.  
 
 <div style="float: right; margin-left: 20px;">
-  <img src="image_Dance_Chronicle.jpg" alt="Your Image" width="200px" height="200px">
+  <img src="https://priyavraman.github.io/images/image_Dance_Chronicle.jpg" alt="Your Image" width="200px" height="200px">
 </div>
 
 Your text goes here. You can write your content here, and it will appear to the left of the image.
