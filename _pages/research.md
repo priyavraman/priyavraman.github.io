@@ -15,4 +15,8 @@ In this paper, I theorize criticism as post-performance performative. That is, I
 
 In an upcoming work, I analyze historical and contemporary performance as a _rasaic_ critic. I highlight that the inherent flexibility of _rasa_ theory enables critics to enjoy affective pleasures and also articulate feminist responses.  
 
-![Drag Racing](https://www.tandfonline.com/doi/cover-img/10.1080/ldnc20.v005.i01)
+<div style="float: right; margin-left: 20px;">
+  <img src="https://www.tandfonline.com/doi/cover-img/10.1080/ldnc20.v005.i01g" alt="Your Image" width="200px" height="200px">
+</div>
+
+Your text goes here. You can write your content here, and it will appear to the left of the image.
