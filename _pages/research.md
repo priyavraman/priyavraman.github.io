@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <div style="float: left; margin-right: 20px;">
-  <img src="https://priyavraman.github.io/images/image_Book_Project.jpg" alt="Your Image" width="300px" height="400px">
+  <img src="https://priyavraman.github.io/images/image_Book_Project.jpg" alt="Your Image" width="400px" height="450px">
 </div>
 
 In my book project, I explore how early-twentieth-century print media shaped transnational discourse on South Asian performance, nationhood, class, and social and gendered organization. I analyze how historical public narratives perpetuated an Oriental fascination for performances drawing from classical, vernacular, and folk traditions. These narratives often devalued the labor and artistry of subaltern performers while validating the appropriation of South Asian techniques by white artists. Critical responses tended to focus on religious exoticism and regulated gender and class identities for subaltern subjects. 
