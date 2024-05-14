@@ -1,10 +1,13 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/
+
   - title: "Artistic Practice"
     url: /artistic-practice/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Pedagogy"
+    url: /pedagogy/
 
   - title: "Brief CV"
     url: /cv/
