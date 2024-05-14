@@ -14,7 +14,7 @@ Alternatively, Indian anti-colonial voices reclaimed classical traditions, and t
 Recent Publication
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://priyavraman.github.io/images/image_Dance_Chronicle.jpg" alt="Your Image" width="100px" height="100px">
+  <img src="https://priyavraman.github.io/images/image_Dance_Chronicle.jpg" alt="Your Image" width="170px" height="170px">
 </div>
 
 Priya Venkat Raman (2024) Indian Dance Criticism as Decolonial Post-Performance Performative, _Dance Chronicle_, [https://doi.org/10.1080/01472526.2024.2309037](https://www.tandfonline.com/doi/full/10.1080/01472526.2024.2309037) 
