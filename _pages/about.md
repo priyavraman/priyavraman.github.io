@@ -13,4 +13,4 @@ In my [book project](research), I investigate the influence of early-twentieth-c
 
 My [performances](artistic-practice) merge embodied memories of technique and cultural traditions to both revive heritage and stimulate societal conversations. 
 
-I employ affective [performance criticism](artistic-practice) techniques rooted in indigenous theories, fostering a decolonized approach to art spectatorship. These practices inform my pedagogy which aims to cultivate empathetic art consumers and position performance as a cultural practice. 
+I employ affective [performance criticism](artistic-practice) techniques rooted in indigenous theories, fostering a decolonized approach to art spectatorship. These practices inform my [pedagogy](pedagogy) which aims to cultivate empathetic art consumers and position performance as a cultural practice. 
