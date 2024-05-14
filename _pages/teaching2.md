@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Pedagogy"
+permalink: /pedagogy/
 author_profile: true
 ---
 **SOUTH ASIAN PERFORMANCE: University of Texas, Austin: Spring 2021-WB (Web-Based)**
