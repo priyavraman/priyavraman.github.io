@@ -5,8 +5,8 @@ permalink: /artistic-practice/
 author_profile: true
 ---
 <div style="float: right; margin-left: 20px;">
-  <img src="https://priyavraman.github.io/images/image_Artistic_Photo.jpg" alt="Your Image" width="170px" height="170px">
-PC: Megha Patil </div>
+  <img src="https://priyavraman.github.io/images/image_Artistic_Photo.jpg" alt="Your Image" width="300px" height="200px">
+</div>
 
 I specialize in South Asian classical and folk dance theatre and have been a performer, educator, and writer for two decades. I debuted as a performer in 1997, in my hometown, Bangalore. My performing years as a teenager were fostered by the 1990s competition culture, nothing like the millennial toxic competition format of popular media. These competitions, hosted by modest local cultural groups promoted and motivated dancers through exposure to public performance. Participating in these competitions helped attune me to the evolving dance aesthetic, and helped frame collective identities with the dance community and my contemporaries, a camaraderie I continue to share. Achievements at regional and national levels through these platforms laid a strong foundation for my career as a performer. 
 I create interdisciplinary productions that blend elements of Indian classical dance with poetry, literature, mythology, and cultural aesthetics. I use the gesture, mime, and rhythm techniques in performance to anchor social dialogue and emphasize the capacity of art to weave communal compassion. These experiences have allowed me to educate global audiences on the diverse Indian socio-cultural landscape through the medium of expression. 
