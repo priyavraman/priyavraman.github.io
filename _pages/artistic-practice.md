@@ -8,6 +8,7 @@ I specialize in South Asian classical and folk dance theatre and have been a per
 I create interdisciplinary productions that blend elements of Indian classical dance with poetry, literature, mythology, and cultural aesthetics. I use the gesture, mime, and rhythm techniques in performance to anchor social dialogue and emphasize the capacity of art to weave communal compassion. These experiences have allowed me to educate global audiences on the diverse Indian socio-cultural landscape through the medium of expression. 
 
 Priya Raman: A Compilation of Works, 2022
+
 https://youtu.be/-gxrh6B5Crg (18min) 
 (Compiled excerpts from seven of my solo/group works) 
 
