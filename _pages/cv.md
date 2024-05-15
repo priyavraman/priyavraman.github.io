@@ -23,7 +23,7 @@ Work experience
   * The course explored the historical evolution of South Asian cultural practices such as dance, theatre, and film in India and the diaspora from the 1930s to the present. Students examined the impact of cultural fusions and global dialogue on traditional practices, and how South Asian artists navigate issues of identity, tradition, modernity, and national allegiance.
   
 
-* Fall 2021: Research Assistant
+* Fall 2020: Teaching Assistant
   * Signature Course: Dancing America
     * Duties included
       * Leading weekly discussion sessions to assist students in academic writing.
@@ -41,7 +41,7 @@ Skills
     
 Talks
 ======
-* Research paper in Dance Studies Association (DSA) Conference - 2017, 2018, 2019, 2021
+* Research paper in Dance Studies Association (DSA) Conference - 2017, 2019, 2021
 * Research paper in American Society for Theatre Research (ASTR) (2017) and Association for Theatre in Higher Education (ATHE) (2018)
 
   
@@ -53,6 +53,6 @@ Service and leadership
 
 * Core Committee Member & Column Writer, Ananya Cultural Academy, Bangalore, India (2009- 2016) 
   * Festival coordinator, Talent Search and Development Lead
-  * Chief column writer for 6 years. Contributed monthly articles (thematic columns, features, interviews, and program reports) for bi-lingual magazine Ananya Kalasinchana 
+  * Chief column writer for 6 years. Contributed monthly articles (thematic columns, features, interviews, and program reports) for bi-lingual magazine _Ananya Kalasinchana_ 
 
 [Download full CV]()
